@@ -1,0 +1,11 @@
+nome= input('Seu nome:')
+telefone= input('Seu telefone: ') 
+endereco= input('Seu endereço: ')
+bairro= input('Seu bairro: ')
+cep= input('Seu cep: ')
+
+print(nome)
+print(telefone)
+print(endereco)
+print(bairro)
+print(cep)
